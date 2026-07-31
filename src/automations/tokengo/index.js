@@ -321,7 +321,7 @@ async function runTokenGoAutomation(sharedProgress = null, useProxy = true, opti
     let accounts;
 
     if (options.mode === "create") {
-        const { runGitHubSignupAutomation } = require("../../github-signup-python");
+        const { runGitHubSignupAutomation } = require("../github");
         const createCount = options.createCount || 1;
         const tempEmailProvider = options.tempEmailProvider || null;
 

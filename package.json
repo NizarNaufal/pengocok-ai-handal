@@ -20,19 +20,6 @@
     "parallel-processing",
     "browser-automation"
   ],
-  "author": {
-    "name": "Fazril Syaveral Hillaby",
-    "email": "fazril.hillaby@binus.ac.id",
-    "url": "https://www.fazrilsh.com"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/fzrilsh/bercocok-tanam.git"
-  },
-  "bugs": {
-    "url": "https://github.com/fzrilsh/bercocok-tanam/issues"
-  },
-  "homepage": "https://github.com/fzrilsh/bercocok-tanam#readme",
   "engines": {
     "node": ">=16.0.0"
   },

@@ -1,13 +1,4 @@
-# 🌱 bercocok-tanam
-
-[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
-[![Node.js Version](https://img.shields.io/badge/node-%3E%3D16-brightgreen)](https://nodejs.org/)
-[![GitHub Stars](https://img.shields.io/github/stars/fzrilsh/bercocok-tanam?style=social)](https://github.com/fzrilsh/bercocok-tanam/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/fzrilsh/bercocok-tanam?style=social)](https://github.com/fzrilsh/bercocok-tanam/network/members)
-[![GitHub Issues](https://img.shields.io/github/issues/fzrilsh/bercocok-tanam)](https://github.com/fzrilsh/bercocok-tanam/issues)
-[![Last Commit](https://img.shields.io/github/last-commit/fzrilsh/bercocok-tanam)](https://github.com/fzrilsh/bercocok-tanam/commits/main)
-[![Code Style: ESLint](https://img.shields.io/badge/code_style-ESLint-5e5ce6.svg)](https://eslint.org/)
-[![Sponsor on Patreon](https://img.shields.io/badge/Patreon-Support%20Development-ff424d?logo=patreon&logoColor=white)](https://patreon.com/fazrilsh)
+# 🌱 pengocok-ai-handal
 
 Automated CLI tool for harvesting Kiro refresh tokens, Cloudflare Workers AI API tokens, Codebuddy AI OAuth tokens, TokenGo API keys, and creating Grok/x.ai and GitHub accounts using hybrid Puppeteer + HTTP automation. Features multi-worker parallel processing, intelligent proxy rotation, flexible temp email providers (Gmail, Mail.cx, ncaori, 1secemail), detailed per-account reporting, and comprehensive error tracking.
 
@@ -66,8 +57,7 @@ Automated CLI tool for harvesting Kiro refresh tokens, Cloudflare Workers AI API
 
 ```bash
 # Clone the repository
-git clone https://github.com/fzrilsh/bercocok-tanam
-cd bercocok-tanam
+cd pengocok-ai-handal
 
 # Install dependencies
 npm install
@@ -589,12 +579,6 @@ This project is licensed under the [Creative Commons Attribution-NonCommercial-S
 
 See [LICENSE](LICENSE) file for full legal terms.
 
-## 👤 Author
-
-**Fazril Syaveral Hillaby**
-- GitHub: [@fzrilsh](https://github.com/fzrilsh)
-- Patreon: [Support Development](https://patreon.com/fazrilsh)
-
 ## 🙏 Acknowledgements
 
 - **[9Router](https://github.com/9router/9router)** - Backend token management service that powers the import functionality
@@ -612,18 +596,6 @@ Contributions welcome! Please ensure:
 - All user-facing text is in English
 - Comprehensive error handling
 - Test changes with multiple accounts before submitting PR
-
-## 💬 Support & Community
-
-- **Issues**: [GitHub Issues](https://github.com/fzrilsh/bercocok-tanam/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/fzrilsh/bercocok-tanam/discussions)
-- **Sponsor**: [Patreon](https://patreon.com/fazrilsh)
-
-For security vulnerabilities, please email directly instead of opening a public issue.
-
-## 📜 Changelog
-
-See [commit history](https://github.com/fzrilsh/bercocok-tanam/commits/main) for detailed changes.
 
 ---
 

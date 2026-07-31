@@ -1,7 +1,7 @@
 # Grok CLI OAuth Device-Code Flow Analysis
 
 **Tanggal**: 2026-07-24  
-**Repo**: 9router (fzrilsh fork)  
+**Repo**: 9router
 **Provider**: `grok-cli` (Grok Build / cli-chat-proxy.grok.com)  
 **Error**: `invalid_grant` / `Access denied` saat polling
 

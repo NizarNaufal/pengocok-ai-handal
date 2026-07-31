@@ -1152,7 +1152,7 @@ async function runCodebuddyCreateAndImport(
 ) {
     const config = getConfig();
     const logger = createFileLogger();
-    const { createGitHubAccountViaPython } = require("../../github-signup-python");
+    const { createGitHubAccountViaPython } = require("../github");
 
     if (createCount <= 0) {
         if (!sharedProgress) console.log("Create count must be > 0");
